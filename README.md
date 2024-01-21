@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PavanBand
+- 👋 Hi, I’m @PavanBandi
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning CSE in AI
 - 💞️ I’m looking to collaborate on ...
